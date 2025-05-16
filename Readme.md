@@ -20,7 +20,7 @@ Os simuladores são implementados em C e utilizam um arquivo de trace (`traceDij
 - `simsplit.c`: Implementação do simulador de cache única dividida (uma para instruções, outra para dados).
 - `simniveis.c`: Implementação do simulador de cache com dois níveis (L1 dividida e L2 unificada).
 - `traceDijkstra.txt`: Arquivo de trace contendo os endereços de memória acessados, utilizado como entrada para as simulações. (Nota: Este arquivo é grande e pode não estar incluído diretamente no repositório. Consulte as instruções de obtenção se necessário).
-- `relatorio_final.pdf` (ou similar): Documento contendo a análise detalhada dos experimentos realizados com os simuladores.
+- `colocarnomedoarwuivo`: Documento contendo a análise detalhada dos experimentos realizados com os simuladores.
 - `README.md`: Este arquivo.
 
 ## Compilação dos Simuladores
