@@ -1,6 +1,6 @@
 # Simuladores de Cache para Arquitetura de Computadores 2
 
-Este projeto contém simuladores de cache desenvolvidos como parte do Trabalho 1 da disciplina de Arquitetura de Computadores 2. Os simuladores permitem avaliar o desempenho de diferentes configurações de cache utilizando um arquivo de trace de acessos à memória.
+Este projeto contém simuladores de cache desenvolvidos para a disciplina de Arquitetura de Computadores. Os simuladores permitem avaliar o desempenho de diferentes configurações de cache utilizando um arquivo de trace de acessos à memória.
 
 ## Visão Geral do Projeto
 
@@ -154,12 +154,8 @@ A saída dos simuladores geralmente inclui estatísticas como número de acessos
 
 ## Experimentos e Análise
 
-Foram realizados diversos experimentos para avaliar o impacto de diferentes parâmetros da cache (tamanho, associatividade, tamanho do bloco) e organizações (unificada vs. dividida, um nível vs. dois níveis) no desempenho geral. As análises detalhadas, incluindo os resultados das simulações e as respostas às questões propostas, podem ser encontradas no arquivo `relatorio_final.pdf` (ou nome similar) que acompanha este projeto.
+Foram realizados diversos experimentos para avaliar o impacto de diferentes parâmetros da cache (tamanho, associatividade, tamanho do bloco) e organizações (unificada vs. dividida, um nível vs. dois níveis) no desempenho geral. As análises detalhadas, incluindo os resultados das simulações e as respostas às questões propostas, podem ser encontradas no arquivo `Universidade Federal do Mato Grosso do Sul.pdf` que acompanha este projeto.
 
 ## Contribuições e Autoria
 
-Este trabalho foi desenvolvido por [Seu Nome/Nomes do Grupo Aqui] como parte dos requisitos da disciplina de Arquitetura de Computadores 2.
-
----
-
-Sinta-se à vontade para adaptar a seção de "Contribuições e Autoria" e verificar se os nomes dos arquivos de configuração e relatório correspondem exatamente aos que você está usando.
+Este trabalho foi desenvolvido por João Pedro Santos de Brito, Arthur Antonio Cavalari Cacciatore e Pedro E Silva Candia como parte dos requisitos da disciplina de Arquitetura de Computadores 2.
